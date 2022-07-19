@@ -1,7 +1,7 @@
 # Pleasure! My name is Junior Murat and welcome to my page
 
-- 🐕 I´m currently working on Adimax Pet Industria
-- 👨‍💻 I´m currently learning Python
+- 🐕 I´m currently working as a Back-end Developer at Adimax Pet Industria
+- 👨‍💻 I´m currently working with C# and studying to focus on Front-end
 - 💡Fun fact: ⚽💻🎮📽️
 
 <div align="center">
